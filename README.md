@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ```
 
 ##  快速开始
+由于预训练模型文件 (`checkpoint/best_model.pth`) 体积较大（超过GitHub的文件大小限制），该文件**未包含在此代码仓库中**。
 当完成环境配置后，你可以开始训练模型了。
 直接运行main可以重新开始训练.
 运行ablation_study可以复现消融实验.
